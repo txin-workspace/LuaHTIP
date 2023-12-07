@@ -1,2 +1,2 @@
 # LuaHTIP
-a wireshark plugin for HTIP
+a HTIP dissector plugin for wireshark
